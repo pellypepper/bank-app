@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7383506d.css",
+    "main.js": "/static/js/main.52bf4fb2.js",
+    "static/media/photo-1619983081563-430f63602796.jpeg": "/static/media/photo-1619983081563-430f63602796.55f2e81100f67b66146b.jpeg",
+    "static/media/debit.webp": "/static/media/debit.c1207aea0a8e15091969.webp",
+    "static/media/lifestyle-2.webp": "/static/media/lifestyle-2.ce32a2f45321d2c429bb.webp",
+    "static/media/lifestyle-1.webp": "/static/media/lifestyle-1.f41db42635a22af767fe.webp",
+    "static/media/lifestyle-3.webp": "/static/media/lifestyle-3.7138334e33a8dcaac493.webp",
+    "static/media/signin-first.webp": "/static/media/signin-first.f55a6334b3f99a8bf06c.webp",
+    "static/media/first.webp": "/static/media/first.3589058c824f27efce2d.webp",
+    "static/media/presignup.webp": "/static/media/presignup.3e28b4c8dcb8fd59aa7e.webp",
+    "static/media/lifestyle-13.webp": "/static/media/lifestyle-13.66a125f4609b57f9f439.webp",
+    "static/media/lifestyle-11.webp": "/static/media/lifestyle-11.6767d51e7b1be71ef12d.webp",
+    "static/media/mainbg.webp": "/static/media/mainbg.5cf856a8c9bcb6e5d557.webp",
+    "static/media/third.webp": "/static/media/third.392fa7500ea70edbd75e.webp",
+    "static/media/lifestyle-6.webp": "/static/media/lifestyle-6.19454fbdb6d8ac500479.webp",
+    "static/media/second.webp": "/static/media/second.7340002d3f18c4960f2d.webp",
+    "static/media/lifestyle-5.webp": "/static/media/lifestyle-5.911a582cc4a21bae4bbc.webp",
+    "static/media/lifestyle-10.webp": "/static/media/lifestyle-10.933408e51db4e0024dcb.webp",
+    "static/media/lifestyle-8.webp": "/static/media/lifestyle-8.3f2c897b08969c1b41d3.webp",
+    "static/media/lifestyle-9.webp": "/static/media/lifestyle-9.ae8dceb9726ed23184e2.webp",
+    "static/media/lifestyle-7.webp": "/static/media/lifestyle-7.4d6f657076e2a717a606.webp",
+    "static/media/aussie.svg": "/static/media/aussie.de28ab7bef27210da1a96ebe69535bb1.svg",
+    "static/media/uk-flag.svg": "/static/media/uk-flag.8ee2f7d529f597f0e827b98e8470088e.svg",
+    "index.html": "/index.html",
+    "main.7383506d.css.map": "/static/css/main.7383506d.css.map",
+    "main.52bf4fb2.js.map": "/static/js/main.52bf4fb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7383506d.css",
+    "static/js/main.52bf4fb2.js"
+  ]
+}

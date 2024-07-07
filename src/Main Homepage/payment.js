@@ -1,5 +1,5 @@
 import NavMenu from "./navmenu";
-import { FaRegCreditCard, FaArrowLeft, FaArrowRight, FaSignOutAlt, FaBook, FaPlusCircle, FaInbox, FaBell, FaLightbulb, FaExchangeAlt, FaShieldAlt, FaPalette, FaPlus, FaInfoCircle, FaEllipsisV, FaTimes, FaChartLine } from 'react-icons/fa';
+import {  FaPlus, } from 'react-icons/fa';
 
 import React, { useRef, useEffect } from 'react';
 import Topmenu  from "./topmenu";

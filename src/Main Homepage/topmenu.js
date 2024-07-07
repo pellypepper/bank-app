@@ -1,5 +1,5 @@
 
-import { FaRegCreditCard, FaSignOutAlt, FaBook, FaPlusCircle, FaInbox, FaBell, FaLightbulb, FaExchangeAlt, FaShieldAlt, FaPalette, FaPlus, FaInfoCircle, FaEllipsisV, FaTimes, } from 'react-icons/fa';
+import { FaRegCreditCard, FaSignOutAlt, FaBook, FaPlusCircle, FaInbox, FaBell, FaLightbulb, FaShieldAlt, FaPalette, FaPlus, FaInfoCircle,  FaTimes, } from 'react-icons/fa';
 
 import { Link } from "react-router-dom";
 import { MdPerson, MdHelp } from 'react-icons/md';

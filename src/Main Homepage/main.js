@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import NavMenu from "./navmenu";
 import React, { useRef, useEffect, useState } from 'react';
 import PaymentBg from '../assets/mainimage/mainbg.webp';
-import { FaRegCreditCard, FaSignOutAlt, FaBook, FaArrowRight, FaPlusCircle, FaInbox, FaBell, FaLightbulb, FaExchangeAlt, FaShieldAlt, FaPalette, FaPlus, FaInfoCircle, FaEllipsisV, FaTimes, FaArrowUp, } from 'react-icons/fa';
+import {  FaArrowRight,  FaExchangeAlt, FaShieldAlt, FaPlus, FaInfoCircle, FaEllipsisV, FaTimes,  } from 'react-icons/fa';
 import Topmenu from "./topmenu";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGlobe } from '@fortawesome/free-solid-svg-icons';

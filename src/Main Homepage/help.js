@@ -7,8 +7,6 @@ import NavMenu from "./navmenu";
 // Import Swiper styles
 import 'swiper/css';
 // import required modules
-import { EffectFade, Navigation, Pagination } from 'swiper/modules';
-
 
 // Import custom components
 import Topmenu from './topmenu';

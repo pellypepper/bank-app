@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import "./App.css"
 import './index.css';
-import App from './App';
+
 import Homepage from './homepage';
 import Signin from './signin';
 
